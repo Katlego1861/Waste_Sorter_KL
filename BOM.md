@@ -7,7 +7,7 @@
 | **ESP32-CAM**                                  | Captures images of waste items for classification using the AI model built with Edge Impulse.                           | 1        |
 | **Resistors**                                  | Protect LEDs and manage current flow in the circuit.                                                                    | 3        |
 | **LEDs**                                       | Each LED represents a series of things like communication,sorting and to check if there is any fualty connection . | 3        |
-| **Jumper Wires**                               | Connects all components to the breadboard and ESP32.                                                                    | 15+      |
+| **Jumper Wires**                               | Connects all components to the breadboard and ESP32.                                                                    | 20      |
 | **Breadboard**                                 | It allows for easy and quick assembly and disassembly of components                                                             | 1        |
 | **USB Cable**                                  | Used to upload data or the codes to the ESP32 and the CAM and components during operation or testing.                                                 | 1        |
 | **OLED Display**                               | Displays real-time feedback such as waste type and sorting status.                                                      | 1        |
