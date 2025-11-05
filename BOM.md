@@ -1,4 +1,4 @@
-# Smart Waste Bin Project - Components List
+# Waste Sorter Project - Components List
 
 | Component Name                                | Purpose in Project                                                                                                      | Quantity |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------- |
